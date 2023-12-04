@@ -43,7 +43,7 @@ entries:
     # pipeline. Library charts do not define any templates and therefore cannot be deployed.
     type: application
     urls:
-    - temporal-1.22.2.tgz
+    - temporal-1.22.2.tar.gz
 
     # This is the chart version. This version number should be incremented each time you make changes
     # to the chart and its templates, including the app version.

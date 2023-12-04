@@ -38,6 +38,6 @@ entries:
     - https://github.com/temporalio/temporal
     type: application
     urls:
-    - temporal-0.20.0.tgz
-    version: 0.20.0
+    - temporal-1.22.2.tar.gz
+    version: 1.22.2
 generated: "2023-03-13T22:31:47.732532+02:00"
